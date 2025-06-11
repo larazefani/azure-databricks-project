@@ -72,7 +72,7 @@ Each layer is separated physically in different containers within ADLS connected
 
 ## Project Directory Structure
 ```
-/data-bricks-etl-project
+/azure-databricks-project
 ├── notebooks/
 │   ├── bronze_layer.ipynb          # Incremental streaming ingestion & autoloader
 │   ├── silver_orders.ipynb         # Transformations & enrichments for orders
